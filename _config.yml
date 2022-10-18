@@ -27,9 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zesa-studio
 github_username:  ZESA-studio
+show_downloads: true
+google_analytics:
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
