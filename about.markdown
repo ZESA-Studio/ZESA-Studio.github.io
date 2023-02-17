@@ -8,7 +8,7 @@ permalink: /impressum/
 Büchmannstraße 11<br> 
 81825 München <br> 
 </p><p><strong>Kontakt:</strong> <br>
-E-Mail: <a href='mailto:general.quack@skjt.de'>general.duck@skjt.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+E-Mail: <a href='mailto:general.quack@skjt.de'>general.quack@skjt.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Axel Napolitano <br> 
 Büchmannstraße 11<br> 
 81825 München <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
