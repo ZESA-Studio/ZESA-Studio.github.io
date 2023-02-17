@@ -19,20 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ZESA-Studio
-email: no-mail-address-yet@trash-mail.com
+email: general.quack@skjt.de
 description: >- # this means to ignore newlines until "baseurl:"
-  ZESA-Studio ist ein studentisches Projekt im Rahmen einer Semesterarbeit im Modul Webtechnologie. 
+  ZESA-Studio ist ein studentisches Non-Profit-Projekt im Rahmen einer Semesterarbeit im Modul Webtechnologie. 
   Das Projekt verfolgt keinerlei kommerzielle Ziele und hat nicht den Anspruch, ein vollständiges Produkt hervor zu bringen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zesa-studio
-github_username:  ZESA-studio
+twitter_username: 
+github_username:  
 show_downloads: false
 google_analytics:
 
 # Build settings
 theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v2.5.1
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
