@@ -40,8 +40,7 @@ Unsere quak-tastische Enten-Saga ist noch lange nicht zu Ende! Das Battle-Ducks-
 
 Wenn du nach dem Spielen von Battle-Ducks immer noch nicht genug hast von wütenden Enten und fetzigen Beats, dann besuche unser Soundcloud-Profil! Hier findest du den offiziellen Soundtrack und kannst den Sound von wütenden Enten hören, wo immer du auch bist. Also zieh deine Gummistiefel an und tauche ein in die musikalische Welt von Battle-Ducks!
 
-<center><a href="https://soundcloud.com/the-battle-ducks-team/battle-ducks-bonus-track/s-g5N7Nt0tJNG?si=217c65612e35428b95a1d21cf33b30b3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-" target="_source" title="Quacktastischer Sound!" class="button">General Quack's Theme</a></center>
+<center><a href="https://soundcloud.com/the-battle-ducks-team/sets/battle-ducks-original/s-5NF5MoGebc0?si=a176629f46974e73ab8a264863e6b05d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_source" title="Quacktastischer Sound!" class="button">Battle Ducks Soundtrack</a></center>
 
 ## Bei uns werden keine Enten gequäckt! 
 
